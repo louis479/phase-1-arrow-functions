@@ -7,5 +7,7 @@ const divide = function(a, b) {
     return x * x;
   };
   
- 
+  const add = (a, b) => {
+    return a + b;
+  };
   
